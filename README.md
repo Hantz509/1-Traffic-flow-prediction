@@ -85,7 +85,7 @@ Box et al. (2015). Time Series Analysis: Forecasting and Control.
 👥 Contributors
 Hantz Brunet Guerrier
 
-古弘恩
+Hantz 古弘恩
 
 Max 田雷西
 
